@@ -263,7 +263,6 @@
     "framework-stm32cubeg4": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
       "version": "~1.4.0"
     },
     "framework-stm32cubeh7": {
